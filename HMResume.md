@@ -1,7 +1,7 @@
 ###Personal information
 ***
 <<<<<<< HEAD
->- Name: Hou Ming            
+>- Name: Hou            
 - Sexual: Male
 - E-mail: *xaazhm@hotmail.com*
 - Tel: *18612698221*
