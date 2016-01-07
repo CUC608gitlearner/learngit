@@ -1,6 +1,6 @@
 ###Personal information
 ***
->- Name: Hou Ming shi wu er              
+>- Name: Hou Ming             
 - Sexual: Male
 - E-mail: *xaazhm@hotmail.com*
 - Tel: *18612698221*
