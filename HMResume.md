@@ -1,7 +1,6 @@
 ###Personal information
 ***
-<<<<<<< HEAD
->- Name: Hou Ming is a baby        
+>- Name: Hou Ming      
 - Sexual: Male
 - E-mail: *xaazhm@hotmail.com*
 - Tel: *18612698221*
